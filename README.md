@@ -5,26 +5,29 @@ Building a stack using AWS? Need to find out whether there's a deterministic way
 
 Check for your service here. Unfortunately this is currently manually maintained, so if it is incorrect, please send a PR 😉
 
-[AI](#ai)
-[Analytics](#analytics)
-[Application Services](#application-services)
-[Compute](#compute)
-[Contact Center](#contact-center)
-[Database](#database)
-[Desktop & App Streaming](#desktop-&-app-streaming)
-[Developer Tools](#developer-tools)
-[Enterprise Applications](#enterprise-applications)
-[GameDev](#gamedev)
-[Internet of Things](#internet-of-things)
-[Management Tools](#management-tools)
-[Messaging](#messaging)
-[Migration](#migration)
-[Mobile Services](#mobile-services)
-[Networking](#networking)
-[Security & Identity](#security-&-identity)
-[Storage & Content Delivery](#storage-&-content-delivery)
-[Additional Forums](#additional-forums)
+---
 
+- [AI](#ai)
+- [Analytics](#analytics)
+- [Application Services](#application-services)
+- [Compute](#compute)
+- [Contact Center](#contact-center)
+- [Database](#database)
+- [Desktop & App Streaming](#desktop-&-app-streaming)
+- [Developer Tools](#developer-tools)
+- [Enterprise Applications](#enterprise-applications)
+- [GameDev](#gamedev)
+- [Internet of Things](#internet-of-things)
+- [Management Tools](#management-tools)
+- [Messaging](#messaging)
+- [Migration](#migration)
+- [Mobile Services](#mobile-services)
+- [Networking](#networking)
+- [Security & Identity](#security-&-identity)
+- [Storage & Content Delivery](#storage-&-content-delivery)
+- [Additional Forums](#additional-forums)
+
+---
 
 # AI
 
@@ -34,6 +37,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Amazon Polly            | ✅          |
 | Amazon Machine Learning | ✅          |
 | Amazon Lex              | ✅          |
+
+---
 
 # Analytics
 
@@ -48,6 +53,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Alexa Web Information Service | ✅          |
 | Amazon CloudSearch            | ✅          |
 
+---
+
 # Application Services
 
 | Service                        | Web Console | NodeJS | CloudFormation |
@@ -56,6 +63,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Amazon Elastic Transcoder      | ✅          |
 | Amazon Simple Workflow Service | ✅          |
 | AWS Step Functions             | ✅          |
+
+---
 
 # Compute
 
@@ -70,11 +79,15 @@ Check for your service here. Unfortunately this is currently manually maintained
 | AWS Batch                          | ✅          |
 | FPGA Development                   | ✅          |
 
+---
+
 # Contact Center
 
 | Service        | Web Console | NodeJS | CloudFormation |
 |----------------|:-----------:|:------:|:--------------:|
 | Amazon Connect | ✅          |
+
+---
 
 # Database
 
@@ -87,12 +100,16 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Amazon SimpleDB            | ✅          |
 | AWS Schema Conversion Tool | ✅          |
 
+---
+
 # Desktop & App Streaming
 
 | Service              | Web Console | NodeJS | CloudFormation |
 |----------------------|:-----------:|:------:|:--------------:|
 | Amazon WorkSpaces    | ✅          |
 | Amazon AppStream 2.0 | ✅          |
+
+---
 
 # Developer Tools
 
@@ -105,6 +122,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | AWS X-Ray        | ✅          |
 | AWS CodeStar     | ✅          |
 
+---
+
 # Enterprise Applications
 
 | Service         | Web Console | NodeJS | CloudFormation |
@@ -112,11 +131,15 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Amazon WorkDocs | ✅          |
 | Amazon WorkMail | ✅          |
 
+---
+
 # GameDev
 
 | Service         | Web Console | NodeJS | CloudFormation |
 |-----------------|:-----------:|:------:|:--------------:|
 | Amazon GameLift | ✅          |
+
+---
 
 # Internet of Things
 
@@ -124,6 +147,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 |----------------|:-----------:|:------:|:--------------:|
 | AWS IoT        | ✅          |
 | AWS Greengrass | ✅          |
+
+---
 
 # Management Tools
 
@@ -137,6 +162,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | AWS Config                  | ✅          |
 | AWS Service Catalog         | ✅          |
 
+---
+
 # Messaging
 
 | Service                            | Web Console | NodeJS | CloudFormation |
@@ -145,12 +172,16 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Amazon Simple Queue Service        | ✅          |
 | Amazon Simple Notification Service | ✅          |
 
+---
+
 # Migration
 
 | Service                           | Web Console | NodeJS | CloudFormation |
 |-----------------------------------|:-----------:|:------:|:--------------:|
 | AWS Application Discovery Service | ✅          |
 | AWS Database Migration Service    | ✅          |
+
+---
 
 # Mobile Services
 
@@ -162,6 +193,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Mobile Development      | ✅          |
 | Amazon Pinpoint         | ✅          |
 
+---
+
 # Networking
 
 | Service                             | Web Console | NodeJS | CloudFormation |
@@ -171,6 +204,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Amazon Route 53 Domain Registration | ✅          |
 | Amazon Virtual Private Cloud        | ✅          |
 | AWS Shield                          | ✅          |
+
+---
 
 # Security & Identity
 
@@ -185,6 +220,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | Amazon Inspector                   | ✅          |
 | AWS Organizations                  | ✅          |
 
+---
+
 # Storage & Content Delivery
 
 | Service                       | Web Console | NodeJS | CloudFormation |
@@ -195,6 +232,8 @@ Check for your service here. Unfortunately this is currently manually maintained
 | AWS Storage Gateway           | ✅          |
 | AWS Import/Export Snowball    | ✅          |
 | Amazon Elastic File System    | ✅          |
+
+---
 
 # Additional Forums
 
