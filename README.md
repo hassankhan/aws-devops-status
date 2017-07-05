@@ -1,6 +1,8 @@
 AWS DevOps Status
 ---
 
+> This list is still largely a work-in-progress!!
+
 Building a stack using AWS? Need to find out whether there's a deterministic way of creating your resources?
 
 Check for your service here. Unfortunately this is currently manually maintained, so if it is incorrect, please send a PR 😉
